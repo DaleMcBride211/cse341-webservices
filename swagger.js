@@ -5,7 +5,7 @@ const doc = {
     title: 'Contacts',
     description: 'contacts information',
   },
-  host: 'https://cse341-webservices-fk8a.onrender.com',
+  host: 'cse341-webservices-fk8a.onrender.com',
   schemes: ['http'],
 };
 
